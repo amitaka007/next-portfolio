@@ -1,0 +1,261 @@
+{
+  "main": {
+    "name": "Amit Kumar",
+    "shortDesc": "I focus on developing user-friendly web applications that meet the client's requirements, with attention to detail, scalability, and performance.",
+    "titles": [
+      "Frontend Development",
+      "Backend Development"
+    ],
+    "heroImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "techStackImages": [
+      "https://img.icons8.com/color/144/000000/material-ui.png",
+      "https://img.icons8.com/color/144/000000/html-5--v1.png",
+      "https://img.icons8.com/color/144/000000/redux.png",
+      "https://img.icons8.com/color/144/000000/chakra-ui.png"
+    ]
+  },
+  "about": {
+    "aboutImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "aboutImageCaption": "< I build stuff 🚀/>",
+    "title": "Full Stack Developer",
+    "about": "I am a Full-Stack developer based in Chandigarh, India. I'm passionate about creating beautiful, functional, and user-friendly websites and applications, and I'm constantly pushing myself to learn and grow as a developer. Love building full-stack clones and side projects. A results-driven software development professional with strong expertise in web development, specializing in front-end development and proficient in programming languages such as JavaScript, React.js, and Node.js. Skilled in agile methodologies, collaboration, and delivering user-centric solutions that adhere to quality assurance standards. Adept at debugging, optimizing performance, and integrating RESTful APIs. Passionate about leveraging analytical skills and problem-solving abilities to contribute to organizational success and maintain reliable software systems.",
+    "callUrl": "",
+    "resumeUrl": "qq"
+  },
+  "socials": [
+    {
+      "icon": "FaLinkedin",
+      "link": "https://www.linkedin.com/in/jhon-doe"
+    },
+    {
+      "icon": "FaGithub",
+      "link": "https://github.com/jhon-doe"
+    },
+    {
+      "icon": "FaInstagram",
+      "link": "https://www.instagram.com/jhondoe"
+    },
+    {
+      "icon": "FaTwitter",
+      "link": "https://twitter.com/jhondoe"
+    }
+  ],
+  "skills": [
+    {
+      "name": "JavaScript",
+      "image": "https://img.icons8.com/color/144/null/javascript--v1.png",
+      "category": "Frontend"
+    },
+    {
+      "name": "NextJS",
+      "image": "/images/nextjs.svg",
+      "category": "Frontend"
+    },
+    {
+      "name": "ReactJS",
+      "image": "/images/react--v1.webp",
+      "category": "Frontend"
+    },
+    {
+      "name": "Redux",
+      "image": "/images/redux.webp",
+      "category": "Frontend"
+    },
+    {
+      "name": "TypeScript",
+      "image": "/images/typescript.webp",
+      "category": "Frontend"
+    },
+    {
+      "name": "Tailwind",
+      "image": "/images/tailwindcss.webp",
+      "category": "Frontend"
+    },
+    {
+      "name": "Material UI",
+      "image": "/images/material-ui.webp",
+      "category": "Frontend"
+    },
+    {
+      "name": "Chakra UI",
+      "image": "/images/chakra-ui.webp",
+      "category": "Frontend"
+    },
+    {
+      "name": "HTML5",
+      "image": "/images/html-5--v1.webp",
+      "category": "Frontend"
+    },
+    {
+      "name": "CSS3",
+      "image": "/images/css3.webp",
+      "category": "Frontend"
+    },
+    {
+      "name": "Bootstrap",
+      "image": "/images/bootstrap.webp",
+      "category": "Frontend"
+    },
+    {
+      "name": "Sass",
+      "image": "/images/sass.webp",
+      "category": "Frontend"
+    },
+    {
+      "name": "jQuery",
+      "image": "/images/jquery.webp",
+      "category": "Frontend"
+    },
+    {
+      "name": "NodeJS",
+      "image": "/images/node-js.webp",
+      "category": "Backend"
+    },
+    {
+      "name": "Firebase",
+      "image": "https://img.icons8.com/color/144/null/firebase.png",
+      "category": "Backend"
+    },
+    {
+      "name": "ExpressJS",
+       "image": "/images/express-js.webp",
+      "category": "Backend"
+    },
+    {
+      "name": "MongoDB",
+       "image": "/images/mongodb.webp",
+      "category": "Backend"
+    },
+    {
+      "name": "AWS",
+       "image": "/images/amazon-web-services.webp",
+      "category": "Backend"
+    },
+    {
+      "name": "MySQL",
+       "image": "/images/mysql-logo.webp",
+      "category": "Backend"
+    },
+    {
+      "name": "GitHub",
+      "image": "https://img.icons8.com/material-outlined/96/null/github.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Googling",
+       "image": "/images/google-logo.webp",
+      "category": "Tools"
+    },
+    {
+      "name": "Git",
+       "image": "/images/git.webp",
+      "category": "Tools"
+    },
+    {
+      "name": "GitHub",
+       "image": "/images/github.webp",
+      "category": "Tools"
+    },
+    {
+      "name": "Jira",
+       "image": "/images/jira.webp",
+      "category": "Tools"
+    },
+    {
+      "name": "DigitalOcean",
+       "image": "/images/digital-ocen.webp",
+      "category": "Tools"
+    },
+    {
+      "name": "Vercel",
+       "image": "/images/vercel.svg",
+      "category": "Tools"
+    },
+    {
+      "name": "Netlify",
+       "image": "/images/netlify.webp",
+      "category": "Tools"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project Title",
+      "techstack": "HTML5, CSS3, JavaScript, jQuery",
+      "category": "MERN Stack",
+      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Project Title",
+      "techstack": "PHP, MySQL, HTML5, CSS3, Bootstrap, JavaScript",
+      "category": "LAMP Stack",
+      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": ""
+      }
+    }
+  ],
+  "educations": [
+    {
+      "institute": "C.B.S.E",
+      "degree": "Class 10th",
+      "duration": "May 2009 - May 2010"
+    },
+    {
+      "institute": "C.B.S.E",
+      "degree": "Class 12th",
+      "duration": "May 2011 - May 2012"
+    },
+    {
+      "institute": "Punjab Technical University",
+      "degree": "Mechanical Engineering",
+      "duration": "June 2012 -July 2016",
+      "desc": [
+        "Worked on web application development using HTML, CSS, and JavaScript, designing a database system using SQL and MongoDB",
+        "Familiar with software development methodologies and project management practices, including Agile and Waterfall methodologies."
+      ]
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Socialpubli Influencer Marketing Company",
+      "position": "React.js Developer",
+      "duration": "Dec 2020 -April 2022",
+      "desc": [
+        "My proficiency in React.js extends beyond front-end development. I have a strong command of JavaScript, HTML, and CSS, allowing me to seamlessly integrate these technologies to deliver polished and fully functional web applications.",
+         "Additionally, I am experienced in working with state management libraries like Redux and have a solid foundation in modern front-end tools and frameworks. Throughout my freelance journey, I have demonstrated a keen eye for detail, ensuring clean and maintainable code that adheres to industry best practices.",
+         "I am skilled in implementing responsive designs, optimizing performance, and ensuring cross-browser compatibility to deliver seamless experiences across different platforms."
+      ]
+    },
+    {
+      "company": "NetScape Labs Infotech Pvt LTD",
+      "position": "FrontEnd Developer",
+      "duration": "June 2020 -August 2023",
+      "desc": [
+        "Optimized application performance, reducing load times and enhancing reliability.",
+        "Collaborated with backend teams to integrate RESTful APIs, ensuring seamless communication between systems.",
+        "Wrote clean, maintainable code while implementing object-oriented programming concepts.",
+        "Worked closely with the QA team to conduct compreshensive testing, ensuring the application meet high quality standards.",
+        "Assisted in strategic planning and deployment of new features, demonstrating adaptability to changing priorities."
+      ]
+    },
+    {
+      "company": "Xeam Ventures Pvt LTD",
+      "position": "FrontEnd Developer",
+      "duration": "Sept 2023 -Present",
+      "desc": [
+        "Spearhead front-end development for government projects, ensuring adherence to SDLC and delivering high-quality outputs.",
+        "Develop scalable solutions using React 18, Material-UI, and Redux Toolkit while integrating back-end development inputs with Java and PostgreSQL.",
+        " Manage API integrations, bug fixes, and code optimization to ensure reliable and robust systems.",
+        "Participate in daily standups, prepare technical documentation , and maintain version control using GitHub.",
+        "Contribute to teamwork through effective communication, analytical skills, and collaboration with cross-functional teams."
+      ]
+    }
+  ]
+}
