@@ -2,10 +2,7 @@
   "main": {
     "name": "Amit Kumar",
     "shortDesc": "I focus on developing user-friendly web applications that meet the client's requirements, with attention to detail, scalability, and performance.",
-    "titles": [
-      "Frontend Development",
-      "Backend Development"
-    ],
+    "titles": ["Frontend Development", "Backend Development"],
     "heroImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
     "techStackImages": [
       "https://img.icons8.com/color/144/000000/material-ui.png",
@@ -118,22 +115,22 @@
     },
     {
       "name": "ExpressJS",
-       "image": "/images/express-js.webp",
+      "image": "/images/express-js.webp",
       "category": "Backend"
     },
     {
       "name": "MongoDB",
-       "image": "/images/mongodb.webp",
+      "image": "/images/mongodb.webp",
       "category": "Backend"
     },
     {
       "name": "AWS",
-       "image": "/images/amazon-web-services.webp",
+      "image": "/images/amazon-web-services.webp",
       "category": "Backend"
     },
     {
       "name": "MySQL",
-       "image": "/images/mysql-logo.webp",
+      "image": "/images/mysql-logo.webp",
       "category": "Backend"
     },
     {
@@ -143,46 +140,107 @@
     },
     {
       "name": "Googling",
-       "image": "/images/google-logo.webp",
+      "image": "/images/google-logo.webp",
       "category": "Tools"
     },
     {
       "name": "Git",
-       "image": "/images/git.webp",
+      "image": "/images/git.webp",
       "category": "Tools"
     },
     {
       "name": "GitHub",
-       "image": "/images/github.webp",
+      "image": "/images/github.webp",
       "category": "Tools"
     },
     {
       "name": "Jira",
-       "image": "/images/jira.webp",
+      "image": "/images/jira.webp",
       "category": "Tools"
     },
     {
       "name": "DigitalOcean",
-       "image": "/images/digital-ocen.webp",
+      "image": "/images/digital-ocen.webp",
       "category": "Tools"
     },
     {
       "name": "Vercel",
-       "image": "/images/vercel.svg",
+      "image": "/images/vercel.svg",
       "category": "Tools"
     },
     {
       "name": "Netlify",
-       "image": "/images/netlify.webp",
+      "image": "/images/netlify.webp",
       "category": "Tools"
     }
   ],
   "projects": [
     {
-      "name": "Project Title",
-      "techstack": "HTML5, CSS3, JavaScript, jQuery",
+      "name": "Instagram MERN",
+      "techstack": "ReactJS, Redux, NodeJS, ExpressJS, MongoDB, TailwindCSS, MUI, AWS S3, SendGrid, Socket.IO",
       "category": "MERN Stack",
-      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
+      "image": "/images/instagram_clone.webp",
+
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Flipkart MERN",
+      "techstack": "ReactJS, Redux, NodeJS, ExpressJS, MongoDB, TailwindCSS, MUI, Paytm, Cloudinary, SendGrid",
+      "category": "MERN Stack",
+      "image": "/images/flipkart_clone.webp",
+
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": ""
+      }
+    },
+    {
+      "name": "ResumeGen",
+      "techstack": "JavaScript, ReactJS, Chakra UI, ContextAPI, Netlify",
+      "category": "MERN Stack",
+      "image": "/images/resumegen.webp",
+
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": ""
+      }
+    },
+    {
+      "name": "React Projects",
+      "techstack": "ReactJS, Redux, NodeJS, ExpressJS, MongoDB, TailwindCSS, Material UI",
+      "category": "MERN Stack",
+      "image": "/images/reactproj.webp",
+
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Web UI Clones  ",
+      "techstack": "HTML5, CSS3, TailwindCSS, JavaScript, NodeJS, jQuery, Netlify",
+      "category": "MERN Stack",
+      "image": "/images/web_ui_clones.webp",
+
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": ""
+      }
+    },
+    {
+      "name": "WebChat Website  ",
+      "techstack": "HTML5, CSS3 JavaScript, NodeJS, Socket.io",
+      "category": "MERN Stack",
+      "image": "/images/chat.webp",
+
       "links": {
         "code": "",
         "video": "",
@@ -229,8 +287,8 @@
       "duration": "Dec 2020 -April 2022",
       "desc": [
         "My proficiency in React.js extends beyond front-end development. I have a strong command of JavaScript, HTML, and CSS, allowing me to seamlessly integrate these technologies to deliver polished and fully functional web applications.",
-         "Additionally, I am experienced in working with state management libraries like Redux and have a solid foundation in modern front-end tools and frameworks. Throughout my freelance journey, I have demonstrated a keen eye for detail, ensuring clean and maintainable code that adheres to industry best practices.",
-         "I am skilled in implementing responsive designs, optimizing performance, and ensuring cross-browser compatibility to deliver seamless experiences across different platforms."
+        "Additionally, I am experienced in working with state management libraries like Redux and have a solid foundation in modern front-end tools and frameworks. Throughout my freelance journey, I have demonstrated a keen eye for detail, ensuring clean and maintainable code that adheres to industry best practices.",
+        "I am skilled in implementing responsive designs, optimizing performance, and ensuring cross-browser compatibility to deliver seamless experiences across different platforms."
       ]
     },
     {
