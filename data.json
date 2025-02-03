@@ -183,7 +183,7 @@
 
       "links": {
         "code": "https://github.com/amitaka007/React-Projects",
-        "video":  "https://www.youtube.com/watch?v=KA-B2AkMvNg",
+        "video": "https://www.youtube.com/watch?v=KA-B2AkMvNg",
         "visit": "https://reactjs-projectss.vercel.app/"
       }
     },
@@ -247,16 +247,70 @@
         "visit": "https://resumegenx.netlify.app/"
       }
     },
-   
     {
-      "name": "Project Title",
-      "techstack": "PHP, MySQL, HTML5, CSS3, Bootstrap, JavaScript",
-      "category": "LAMP Stack",
-      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
+      "name": "JavaScript Issue Tracker    ",
+      "techstack": "HTML5, CSS3, Bootstrap, JavaScript, LocalStorage",
+      "category": "Basic Web",
+      "image": "/images/issue_tracker.webp",
       "links": {
-        "code": "",
+        "code": "https://github.com/amitaka007/JavaScript-Projects/tree/main/projects/issuetracker",
+        "video": "",
+        "visit": "https://jigar-sable.github.io/JavaScript-Projects/projects/issuetracker/"
+      }
+    },
+    {
+      "name": "Link List    ",
+      "techstack": "HTML5, CSS3",
+      "category": "Basic Web",
+      "image": "/images/linkedlist.webp",
+      "links": {
+        "code": "https://github.com/amitaka007/LinkList",
         "video": "",
         "visit": ""
+      }
+    },
+    {
+      "name": "Job Finder Dummy    ",
+      "techstack": "HTML5, CSS3, JavaScript, JSON",
+      "category": "Basic Web",
+      "image": "/images/job_finder.webp",
+      "links": {
+        "code": "https://github.com/amitaka007/JavaScript-Projects/tree/main/api-projects/saas-jobs",
+        "video": "https://www.youtube.com/watch?v=iHtHBZ6zStM",
+        "visit": "https://jigar-sable.github.io/JavaScript-Projects/api-projects/saas-jobs/"
+      }
+    },
+    {
+      "name": "JavaScript Projects Website",
+      "techstack": "HTML5, CSS3, TailwindCSS, SCSS, JavaScript, jQuery, Netlify",
+      "category": "Basic Web",
+      "image": "/images/javscripts_proj.webp",
+      "links": {
+        "code": "https://github.com/amitaka007/JavaScript-Projects",
+        "video": "https://www.youtube.com/watch?v=iHtHBZ6zStM",
+        "visit": "https://jigar-sable.github.io/JavaScript-Projects/"
+      }
+    },
+    {
+      "name": "Composey Website ",
+      "techstack": "HTML5, CSS3, TailwindCSS, SCSS, JavaScript, jQuery, Netlify",
+      "category": "Basic Web",
+      "image": "/images/composy.webp",
+      "links": {
+        "code": "https://github.com/amitaka007/LGMVIP-WebDev",
+        "video": "https://www.youtube.com/watch?v=iHtHBZ6zStM",
+        "visit": "https://composey.netlify.app//"
+      }
+    },
+    {
+      "name": "WeKeep Note Saver    ",
+      "techstack": "HTML5, CSS3, TailwindCSS, JavaScript, LocalStorage",
+      "category": "Basic Web",
+      "image": "/images/wekeep.webp",
+      "links": {
+        "code": "https://github.com/amitaka007/JavaScript-Projects/tree/main/projects/wekeep",
+        "video": "",
+        "visit": "https://jigar-sable.github.io/JavaScript-Projects/projects/wekeep/"
       }
     }
   ],
