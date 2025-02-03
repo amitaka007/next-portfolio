@@ -18,6 +18,8 @@ const Project = ({ name, image, category, techstack, links }: project) => {
         triggerOnce: true
     });
 
+    console.log(links,"links")
+
     return (
         <motion.div
             ref={ref}
@@ -47,6 +49,8 @@ const Project = ({ name, image, category, techstack, links }: project) => {
                         }
                     </div>
                 }
+
+ 
             </div>
 
             <div className="my-2 flex flex-col gap-3">
