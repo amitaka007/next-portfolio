@@ -1,4 +1,4 @@
-![Portfolio](/images/home.png)
+![Portfolio](public/images/home.png)
 
 <div align="center">
   &middot;
