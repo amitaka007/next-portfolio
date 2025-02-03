@@ -18,8 +18,6 @@ const Project = ({ name, image, category, techstack, links }: project) => {
         triggerOnce: true
     });
 
-    console.log(links,"links")
-
     return (
         <motion.div
             ref={ref}

@@ -1,4 +1,4 @@
-![Portfolio](https://res.cloudinary.com/lifecodes/image/upload/v1678684352/Portfolio/l7b1gz61rh3hgoz5qzta.png)
+![Portfolio](/images/home.png)
 
 <div align="center">
   &middot;

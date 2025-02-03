@@ -34,7 +34,7 @@ export default function Header({ logo }: { logo: string }) {
 
                 <Link href={'/'} className='2xl:ml-6 hover:text-violet-700 hover:dark:text-violet-500 transition-colors duration-300'>
                     {/* {logo === 'Jigar Sable' ? <FaNodeJs size={28} /> : <span className='text-lg font-medium'>{logo.split(' ')[0]}</span>} */}
-                    <Image src={logoPath} alt="logo" width={50} height={50} />
+                    <Image src={logoPath} alt="logo" width={40} height={40} />
                     </Link>
 
                 <ul className='flex items-center gap-8'>
