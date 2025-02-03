@@ -176,13 +176,49 @@
   ],
   "projects": [
     {
+      "name": "React Projects",
+      "techstack": "ReactJS, Redux, NodeJS, ExpressJS, MongoDB, TailwindCSS, Material UI",
+      "category": "MERN Stack",
+      "image": "/images/reactproj.webp",
+
+      "links": {
+        "code": "https://github.com/amitaka007/React-Projects",
+        "video":  "https://www.youtube.com/watch?v=KA-B2AkMvNg",
+        "visit": "https://reactjs-projectss.vercel.app/"
+      }
+    },
+    {
+      "name": "Web UI Clones  ",
+      "techstack": "HTML5, CSS3, TailwindCSS, JavaScript, NodeJS, jQuery, Netlify",
+      "category": "MERN Stack",
+      "image": "/images/web_ui_clones.webp",
+
+      "links": {
+        "code": "https://github.com/amitaka007/web-ui-clones",
+        "video": "https://www.youtube.com/watch?v=sXOyQaHdtas",
+        "visit": ""
+      }
+    },
+    {
+      "name": "WebChat Website  ",
+      "techstack": "HTML5, CSS3 JavaScript, NodeJS, Socket.io",
+      "category": "MERN Stack",
+      "image": "/images/chat.webp",
+
+      "links": {
+        "code": "https://github.com/amitaka007/WebChat",
+        "video": "",
+        "visit": ""
+      }
+    },
+    {
       "name": "Instagram MERN",
       "techstack": "ReactJS, Redux, NodeJS, ExpressJS, MongoDB, TailwindCSS, MUI, AWS S3, SendGrid, Socket.IO",
       "category": "MERN Stack",
       "image": "/images/instagram_clone.webp",
 
       "links": {
-        "code": "",
+        "code": "https://github.com/amitaka007/instagram-mern",
         "video": "https://www.youtube.com/watch?v=JWFQYw9t5bM",
         "visit": "https://instagramweb-mern.vercel.app/"
       }
@@ -194,9 +230,9 @@
       "image": "/images/flipkart_clone.webp",
 
       "links": {
-        "code": "",
-        "video": "",
-        "visit": ""
+        "code": "https://github.com/amitaka007/flipkart-mern",
+        "video": "https://www.youtube.com/watch?v=gQXSl1IJDEo",
+        "visit": "https://flipkartweb-mern.vercel.app/"
       }
     },
     {
@@ -206,47 +242,12 @@
       "image": "/images/resumegen.webp",
 
       "links": {
-        "code": "",
-        "video": "",
-        "visit": ""
+        "code": "https://github.com/amitaka007/resumegen",
+        "video": "https://www.youtube.com/watch?v=KA-B2AkMvNg",
+        "visit": "https://resumegenx.netlify.app/"
       }
     },
-    {
-      "name": "React Projects",
-      "techstack": "ReactJS, Redux, NodeJS, ExpressJS, MongoDB, TailwindCSS, Material UI",
-      "category": "MERN Stack",
-      "image": "/images/reactproj.webp",
-
-      "links": {
-        "code": "",
-        "video": "",
-        "visit": ""
-      }
-    },
-    {
-      "name": "Web UI Clones  ",
-      "techstack": "HTML5, CSS3, TailwindCSS, JavaScript, NodeJS, jQuery, Netlify",
-      "category": "MERN Stack",
-      "image": "/images/web_ui_clones.webp",
-
-      "links": {
-        "code": "",
-        "video": "",
-        "visit": ""
-      }
-    },
-    {
-      "name": "WebChat Website  ",
-      "techstack": "HTML5, CSS3 JavaScript, NodeJS, Socket.io",
-      "category": "MERN Stack",
-      "image": "/images/chat.webp",
-
-      "links": {
-        "code": "",
-        "video": "",
-        "visit": ""
-      }
-    },
+   
     {
       "name": "Project Title",
       "techstack": "PHP, MySQL, HTML5, CSS3, Bootstrap, JavaScript",
